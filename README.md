@@ -2,7 +2,7 @@
 
 Welcome to the **Car Rental Website**! This responsive site is built using HTML, CSS, and JavaScript, offering a modern and appealing UI. We’ve used Google Fonts and Boxicons to add some extra flair! 🌟
 
-![Car Driving GIF](https://media.giphy.com/media/l3q2zqaxqP1paEHS4/giphy.gif)
+![Car Rental GIF](https://media.giphy.com/media/l0MYz24P92gQfQr2Y/giphy.gif)
 
 ## 📚 Table of Contents
 
@@ -17,20 +17,9 @@ Welcome to the **Car Rental Website**! This responsive site is built using HTML,
 ## ✨ Features
 
 - **🎨 Responsive Design**: Adapts beautifully to any screen size!
-  
-  ![Responsive Design GIF](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
-
 - **💡 Modern UI/UX**: Vibrant colors and smooth navigation.
-  
-  ![Modern UI GIF](https://media.giphy.com/media/3oEjHLzm4BCF8zfPyI/giphy.gif)
-
 - **📝 Booking Form**: Book your car with ease.
-  
-  ![Form Filling GIF](https://media.giphy.com/media/8Iv5lqKwKsZ6w/giphy.gif)
-
 - **⚡ Interactive Elements**: Hover effects and smooth scrolling for a better experience.
-  
-  ![Smooth Scrolling GIF](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
 
 ## 🛠️ Technologies Used
 
@@ -40,8 +29,6 @@ Welcome to the **Car Rental Website**! This responsive site is built using HTML,
 - **Google Fonts**: Adding some typography flair.
 - **Boxicons**: For those sleek and modern icons.
 
-![HTML CSS JavaScript GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
-
 ## ⚙️ Installation
 
 To run this project locally:
@@ -50,41 +37,22 @@ To run this project locally:
    ```bash
    git clone https://github.com/yourusername/rental-web.git
    ```
-   
-   ![Clone GIF](https://media.giphy.com/media/1msn0D11NyyUgo7i4d/giphy.gif)
-
 2. **Navigate to the project directory**:
    ```bash
    cd rental-web
    ```
-   
-   ![Navigate GIF](https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif)
-
 3. **Open `index.html` in your browser**:
    ```bash
    open index.html
    ```
    Or just drag and drop the `index.html` file into your browser.
-   
-   ![Open HTML GIF](https://media.giphy.com/media/YyKPbc5OOTSQE/giphy.gif)
 
 ## 🚀 Usage
 
 - **🏠 Home Page**: Get an overview of the services we offer.
-  
-  ![Home Page GIF](https://media.giphy.com/media/J2g7cUb4yk4Eo/giphy.gif)
-
 - **🛠️ Services Section**: Browse through the car rental services available.
-  
-  ![Services GIF](https://media.giphy.com/media/Q5pQVjz6nZZX2/giphy.gif)
-
 - **📝 Booking Form**: Fill in the required details and book your ride.
-  
-  ![Booking GIF](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
-
 - **📞 Contact Section**: Get in touch with us for inquiries or feedback.
-  
-  ![Contact GIF](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
 
 ## 🤝 Contributing
 
@@ -105,8 +73,6 @@ We ❤️ contributions! If you'd like to improve this project:
    ```
 5. **Open a pull request** and we’ll review it.
 
-![Contribution GIF](https://media.giphy.com/media/12msWfOvpN3C8k/giphy.gif)
-
 ## 📸 Screenshots
 
 Here are some snapshots of our awesome website:
@@ -125,5 +91,3 @@ For any inquiries or feedback, feel free to reach out:
 - **Name**: Prabhtesh Mishra
 - **LinkedIn**: [Prabhtesh Mishra](https://www.linkedin.com/in/prabhteshmishra4567/)
 - **Social Links**: [Linktree](https://linktr.ee/prabhteshmishra)
-
-![Contact GIF](https://media.giphy.com/media/TJ0V9SRrXcyiA/giphy.gif)
